@@ -1,0 +1,52 @@
+﻿body { 
+    background-color:rgba(252, 252, 231, 0.80);
+}
+.contents{
+    margin:10% 10% 10% 10%;
+}
+.wikiLogo{
+    border:2px groove #808080;
+    border-radius:10%;
+    width:30%; height:80%;
+    margin:0% 0% 0% 25%;    
+}
+.smallSizeLogo{
+  width:15%; height:15%;
+}
+div{
+    color:#100e0e;
+}
+h4{
+    color:#0c168b;
+}
+myLink{
+    color:#196316;
+    font-style:italic;
+    font-size:smaller;
+    left:5%;
+}
+h1{
+    margin:2% 0% 2% 5%;
+  font-size:3em;
+}
+button{
+    width:30%;margin:0% 5% 0% 2.5%;
+}
+a{
+    width:30%;
+    
+}
+#searchText{
+    width:80%;
+    margin:2% 0% 2% 0%;
+}
+
+.inputContainer{
+    margin:0%;padding:0%;
+}
+.contentsDisplay{
+    margin:1% 1% 1% 1%;
+}
+footer{
+  font-family: 'Lobster', cursive; position : relative; margin: 85% 2% 1% 10%;
+}
